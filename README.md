@@ -3,7 +3,7 @@ A curious by nature
 
 - :cactus: This is me, a curious northeasterner who likes technology, jujitsu, coffee, music of all kinds, and good conversation. .  
 
-- 👨‍🎓 <strong> Education:  </strong> Master degeree in Professional and Technological Education and Bachelor's degree in Information Systems </br>
+- 👨‍🎓 <strong> Education:  </strong> Master degree in Professional and Technological Education and Bachelor's degree in Information Systems </br>
 
 - :alien: <strong> Studying: </strong> </br> I love teaching, now I start a journey as a web developer.II have knowledge in some programming languages and structures.  Like a Javascript, React.js, Node.js, Typescript, HTML, CSS, AWS, SQL , C#, C and PHP.
 
