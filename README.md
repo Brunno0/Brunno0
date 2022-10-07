@@ -7,15 +7,13 @@ A curious by nature
 
 - :alien: <strong> Studying: </strong> </br> I love teaching, now I start a journey as a web developer.II have knowledge in some programming languages and structures.  Like a Javascript, React.js, Node.js, Typescript, HTML, CSS, AWS, SQL , C#, C and PHP.
 
-- 📈 <strong> Looking for </strong> </br> I'm looking for opportunities to build a carreer as a Web Developer.
+- 📈 <strong> Looking for: </strong> </br> I'm looking for opportunities to build a carreer as a Web Developer.
 
-- 📞 <h3 align="left">Connect with me:</h3>
-
-[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" width="110" align ="center">](mailto:brunno00amorim@gmail.com)
+- 📞 <strong align="left">Connect with me:</strong>    [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" width="110" align ="center">](mailto:brunno00amorim@gmail.com)
 <a href="https://www.linkedin.com/in/brunoamorimramos/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" height="30" width="110" /></a>
 
 <div>  
-  <h4> Visitors </h4>
+  <h4> Visitors:</h4>
   <img src="https://profile-counter.glitch.me/Brunno0/count.svg">
 </div>
 
@@ -31,7 +29,9 @@ A curious by nature
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
+
+  <div align="center">
+  <p align="left">
  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
@@ -44,5 +44,5 @@ A curious by nature
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
-    
+    </div>
 </div>
