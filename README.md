@@ -5,7 +5,7 @@ A curious by nature
 
 - 👨‍🎓 <strong> Education:  </strong> Master degree in Professional and Technological Education and Bachelor's degree in Information Systems </br>
 
-- :alien: <strong> Studying: </strong> </br> I love teaching, now I start a journey as a web developer.II have knowledge in some programming languages and structures.  Like a Javascript, React.js, Node.js, Typescript, HTML, CSS, AWS, SQL , C#, C and PHP.
+- :alien: <strong> Studying: </strong> </br> I love teaching, now I start a journey as a web developer.I have knowledge in some programming languages and structures.  Like a Javascript, React.js, Node.js, Typescript, HTML, CSS, AWS, SQL , C#, C, Java and PHP.
 
 - 📈 <strong> Looking for: </strong> </br> I'm looking for opportunities to build a carreer as a Web Developer.
 
