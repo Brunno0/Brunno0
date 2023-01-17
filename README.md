@@ -1,7 +1,7 @@
 <h1> hello, i am Bruno Amorim :)</h1>
 A curious by nature
 
-- :cactus: This is me, a curious northeasterner who likes technology, jujitsu, coffee, music of all kinds, and good conversation. .  
+- :cactus: This is me, a curious northeasterner who likes technology, jui-jitsu, coffee, music of all kinds, and good conversation. .  
 
 - 👨‍🎓 <strong> Education:  </strong> Master degree in Professional and Technological Education and Bachelor's degree in Information Systems </br>
 
