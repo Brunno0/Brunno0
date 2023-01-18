@@ -12,18 +12,8 @@ A curious by nature
 - 📞 <strong align="left">Connect with me:</strong>    [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" width="110" align ="center">](mailto:brunno00amorim@gmail.com)
 <a href="https://www.linkedin.com/in/brunoamorimramos/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" height="30" width="110" /></a>
 
-<div>  
-  <h4> Visitors:</h4>
-  <img src="https://profile-counter.glitch.me/Brunno0/count.svg">
-</div>
 
 <br/>
-
-<div align="center">
-  <a href="https://github.com/Brunno0">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Brunno0&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brunno0&layout=compact&langs_count=8&theme=dark"/>
-</div>
    
 <p align="left">
 </p>
