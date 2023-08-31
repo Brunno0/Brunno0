@@ -1,26 +1,27 @@
-<h1> hello, i am Bruno Amorim :)</h1>
-A curious by nature
+<h1>Hello, I am Bruno Amorim :)</h1>
+Naturally Curious
 
-- :cactus: This is me, a curious northeasterner who likes technology, jui-jitsu, coffee, music of all kinds, and good conversation. .  
+- :cactus: This is me, a naturally curious individual from the Northeast who enjoys technology, jiu-jitsu, coffee, music of all genres, and engaging conversations.
 
-- 👨‍🎓 <strong> Education:  </strong> Master degree in Professional and Technological Education and Bachelor's degree in Information Systems </br>
+- 👨‍🎓 <strong>Education:</strong> Master's degree in Professional and Technological Education and Bachelor's degree in Information Systems
 
-- :alien: <strong> Studying: </strong> </br> I love teaching, now I start a journey as a web developer.I have knowledge in some programming languages and structures.  Like a Javascript, React.js, Node.js, Typescript, HTML, CSS, AWS, SQL , C#, C, Java and PHP.
+- :alien: <strong>Studying:</strong>
+I have a passion for teaching and have now embarked on a journey as a web developer. I possess knowledge in various programming languages and structures, including JavaScript, React.js, Node.js, TypeScript, HTML, CSS, AWS, SQL, C#, C, Java, and PHP.
 
-- 📈 <strong> Looking for: </strong> </br> I'm looking for opportunities to build a carreer as a Web Developer.
+- 📈 <strong>Looking for:</strong>
+I'm actively seeking opportunities to build a career as a Web Developer.
 
-- 📞 <strong align="left">Connect with me:</strong>    [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" width="110" align ="center">](mailto:brunno00amorim@gmail.com)
-<a href="https://www.linkedin.com/in/brunoamorimramos/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" height="30" width="110" /></a>
-
+- 📞 <strong>Connect with me:</strong>
+  [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" width="110" align="center">](mailto:brunno00amorim@gmail.com)
+  <a href="https://www.linkedin.com/in/brunoamorimramos/" target="blank">
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" height="30" width="110" />
+  </a>
 
 <br/>
-   
-<p align="left">
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 
-  <div align="center">
+ <div align="center">
   <p align="left">
  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
