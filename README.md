@@ -5,8 +5,7 @@ Naturally Curious
 
 - 👨‍🎓 <strong>Education:</strong> Master's degree in Professional and Technological Education and Bachelor's degree in Information Systems
 
-- :alien: <strong>Studying:</strong>
-I have a passion for teaching and have now embarked on a journey as a web developer. I possess knowledge in various programming languages and structures, including JavaScript, React.js, Node.js, TypeScript, HTML, CSS, AWS, SQL, C#, C, Java, and PHP.
+- 💻 Studying: I have a passion for teaching and currently work as a Professor and Researcher at the IFBA - Federal Institute of Bahia, Brasil. I’m now expanding my skills as a web developer, with knowledge in various programming languages and frameworks, including JavaScript, React.js, Node.js, TypeScript, HTML, CSS, AWS, SQL, C#, C, Java, and PHP.
 
 - 📈 <strong>Looking for:</strong>
 I'm actively seeking opportunities to build a career as a Web Developer.
